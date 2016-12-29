@@ -17,6 +17,7 @@ namespace VowelCounter
                             if(strWord.Contains(t))
                                 {
                                     count += 1;
+                    //count
                                 }
                     
                 }
